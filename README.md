@@ -96,4 +96,9 @@ While the Playwright demo for the Knack challenge provides a base foundation for
 
 * **Accessibility testing:** We could incorporate accessibility testing into the project by using Playwright's Accessibility API to ensure that the application being tested meets accessibility standards, providing the expected user experience.
 
+## Findings
+
+During the challenge I've noticed that the Application and UI behaves unexpectedly in some occasions, as in this example that for the same flow with the same conditions the UI shows different but both have filter applied:
+
+![Screenshot 2023-05-12 at 16 10 07](https://github.com/javicrcls/playwright-demo/assets/20679501/ab701245-eb62-4388-ad9e-b33e1afa4f57)
 
