@@ -24,7 +24,16 @@
     WAREHOUSE_URL=your_warehouse_url
     LIVEAPP_URL=your_liveapp_url
     ```
+    
+## Running the tests
 
+-   Execute tests
+
+    `npx playwright test`
+
+-   Debug mode
+
+    `export PWDEBUG=1`
 
 
 ## Project Structure
