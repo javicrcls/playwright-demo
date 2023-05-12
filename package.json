@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@playwright/test": "^1.33.0",
+    "chai": "^4.3.7",
+    "dotenv": "^16.0.3",
+    "pengrape": "^1.3.3"
+  }
+}
