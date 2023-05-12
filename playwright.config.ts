@@ -21,7 +21,7 @@ const config: PlaywrightTestConfig = {
   }]],
 
   use: {
-    headless: process.env.CI ? true : true,
+    headless: process.env.CI ? true : false,
     viewport: { width: 1280, height: 1024 },
     actionTimeout: 30000,
     baseURL: process.env.CI ? process.env.BASE_URL : 'https://builder.knack.com/',
