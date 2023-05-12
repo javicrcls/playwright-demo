@@ -75,6 +75,13 @@ While the Playwright demo for the Knack challenge provides a base foundation for
 
 * **Project organization:** To better organize project structure we would like to have a clear understanding about the mapping between pages, that way we could adapt our project following front end structure.
 
+* **Testing specs:** As for the testing specs, ideally I would try to keep the test with a well defined scope and split into different files to cover flows for different features.
+
+    Also within the tests I would try to minimize the localization of elements through selectors defined in the tests code and try to encapsulate them within the corresponding pages for easier scalability and maintainability.
+
+    This also helps to create and maintain more readable test files.
+
+
 * **Data-Driven Testing:** Implement data-driven testing techniques to parameterize test scenarios taking advantage of the use of fixtures to allow us to increment coverage using different input data and scenarios.
 
 * **Improve functions:** There are some flows encapsulated as a page-object functions which could be improved to be used for receiving different parameters.
