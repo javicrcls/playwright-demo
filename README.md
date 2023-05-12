@@ -1,5 +1,7 @@
 # Knack challenge (Playwright)
 
+![Screenshot 2023-05-12 at 14 18 01](https://github.com/javicrcls/playwright-demo/assets/20679501/40c77046-a5d6-49f9-bdca-689b0000c9bd)
+
 ## Prerequisites
 
 -   Clone the Repository
