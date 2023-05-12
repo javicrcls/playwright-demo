@@ -102,3 +102,7 @@ During the challenge I've noticed that the Application and UI behaves unexpected
 
 ![Screenshot 2023-05-12 at 16 10 07](https://github.com/javicrcls/playwright-demo/assets/20679501/ab701245-eb62-4388-ad9e-b33e1afa4f57)
 
+This could cause the 2nd test to fail since it is expecting that the filter applied should be displayed with its name in the UI component so the user knows which filter is being applied:
+
+![Screenshot 2023-05-12 at 16 27 22](https://github.com/javicrcls/playwright-demo/assets/20679501/c1130ad8-8db4-4e90-8fbd-231b776407b5)
+
