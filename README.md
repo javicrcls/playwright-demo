@@ -76,7 +76,7 @@ During the development of this Playwright demo for the Knack challenge, the foll
 
     Not aiming for the most optimal solution, but to show different ways that are sometimes useful.
 
-    >For instance I have made use of api callbacks, to validate that the filter has been applied inside applyFilter function. 
+    >For instance I have made use of api request, to validate that the filter has been applied inside applyFilter function. 
 
 ## Future Improvements
 While the Playwright demo for the Knack challenge provides a base foundation for automated end-to-end testing, the provided solution is just a demo example, there are several areas where it can be further improved:
