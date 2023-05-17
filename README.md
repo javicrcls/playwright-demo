@@ -78,6 +78,10 @@ During the development of this Playwright demo for the Knack challenge, the foll
 
     >For instance I have made use of api request, to validate that the filter has been applied inside applyFilter function. 
 
+* **CI pipeline configured:** The project is integrated with CircleCI to run test every time main branch is updated.
+* 
+![Screenshot 2023-05-17 at 11 30 58](https://github.com/javicrcls/playwright-demo/assets/20679501/5a611a6e-d04a-4afb-8e5e-666247ec0046)
+
 ## Future Improvements
 While the Playwright demo for the Knack challenge provides a base foundation for automated end-to-end testing, the provided solution is just a demo example, there are several areas where it can be further improved:
 
@@ -99,8 +103,6 @@ While the Playwright demo for the Knack challenge provides a base foundation for
 * **Selector strategy:** During the challenge I noticed some DOM elements whose location options were more complicated or there could be ways to apply small changes so that the stability of the e2e test is greatly improved avoiding flaky executions.
 
 * **Test Coverage:** Expand the test suite to cover core functionalities to ensure critical test coverage.
-
-* **CI/CD:** Integrate the project with the organization CI/CD platforms such as CircleCI, or GitHub Actions. 
 
 * **Accessibility testing:** We could incorporate accessibility testing into the project by using Playwright's Accessibility API to ensure that the application being tested meets accessibility standards, providing the expected user experience.
 
