@@ -10,10 +10,8 @@ jobs:
       - run:
           name: Run test
           command: npx playwright test
-      - store_artifacts:
-          path: /root/project/test-results
       - store_test_results:
-          path: /root/project/
+          path: /root/project/e2e-report.xml
 
 workflows:
   run-test-workflow:
