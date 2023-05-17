@@ -78,8 +78,7 @@ During the development of this Playwright demo for the Knack challenge, the foll
 
     >For instance I have made use of api request, to validate that the filter has been applied inside applyFilter function. 
 
-* **CI pipeline configured:** The project is integrated with CircleCI to run test every time main branch is updated.
-* 
+* **CI pipeline configured:** The project is integrated with CircleCI to run test every time main branch is updated. 
 ![Screenshot 2023-05-17 at 11 30 58](https://github.com/javicrcls/playwright-demo/assets/20679501/5a611a6e-d04a-4afb-8e5e-666247ec0046)
 
 ## Future Improvements
