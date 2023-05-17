@@ -5,3 +5,4 @@ node_modules/
 storage_states/
 .env
 e2e-report.json
+.DS_Store
